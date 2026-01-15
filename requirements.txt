@@ -1,0 +1,2 @@
+cryptography
+pymem; sys_platform == 'win32'
